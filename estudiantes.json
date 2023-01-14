@@ -1,0 +1,326 @@
+[
+    {
+        "alumno": "Juan",
+        "nota": 7,
+        "ranking": 92,
+        "curso": "9a"},
+
+    {
+        "alumno": "Guillermo",
+        "nota": 8,
+        "ranking": 140,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Alvaro",
+        "nota": 9,
+        "ranking": 123,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Edgar",
+        "nota": 3,
+        "ranking": 64,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Jairo",
+        "nota": 4,
+        "ranking": 63,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Ernesto",
+        "nota": 10,
+        "ranking": 53,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Evelio",
+        "nota": 4,
+        "ranking": 109,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Jose",
+        "nota": 1,
+        "ranking": 94,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Roberto",
+        "nota": 8,
+        "ranking": 13,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Hernando",
+        "nota": 5,
+        "ranking": 117,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Henry",
+        "nota": 8,
+        "ranking": 128,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Manuel",
+        "nota": 5,
+        "ranking": 70,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Jose",
+        "nota": 5,
+        "ranking": 120,
+        "curso": "9a"
+    },
+    {
+        "alumno": "David",
+        "nota": 5,
+        "ranking": 48,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Edgar",
+        "nota": 6,
+        "ranking": 58,
+        "curso": "9a"
+    },
+    {
+        "alumno": "David",
+        "nota": 1,
+        "ranking": 34,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Jorge",
+        "nota": 1,
+        "ranking": 122,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Gustavo",
+        "nota": 10,
+        "ranking": 47,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Holdan",
+        "nota": 1,
+        "ranking": 86,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Mauricio",
+        "nota": 7,
+        "ranking": 51,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Sergio",
+        "nota": 8,
+        "ranking": 78,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Hugo",
+        "nota": 7,
+        "ranking": 136,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Gabriel",
+        "nota": 4,
+        "ranking": 39,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Hector",
+        "nota": 7,
+        "ranking": 95,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Rafael",
+        "nota": 2,
+        "ranking": 138,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Tito",
+        "nota": 8,
+        "ranking": 121,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Francisco",
+        "nota": 2,
+        "ranking": 60,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Carlos",
+        "nota": 2,
+        "ranking": 53,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Leonardo",
+        "nota": 7,
+        "ranking": 132,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Roberto",
+        "nota": 2,
+        "ranking": 132,
+        "curso": "9a"
+    },
+    {
+        "alumno": "Jaime",
+        "nota": 8,
+        "ranking": 83,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Adolfo",
+        "nota": 6,
+        "ranking": 30,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Edicson",
+        "nota": 4,
+        "ranking": 140,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Alfonso",
+        "nota": 3,
+        "ranking": 115,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Augusto",
+        "nota": 4,
+        "ranking": 139,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Edgar",
+        "nota": 9,
+        "ranking": 44,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Edilberto",
+        "nota": 1,
+        "ranking": 119,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Enrique",
+        "nota": 8,
+        "ranking": 21,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Kalvin",
+        "nota": 5,
+        "ranking": 22,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Enrique",
+        "nota": 2,
+        "ranking": 60,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Fernando",
+        "nota": 5,
+        "ranking": 82,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Hernando",
+        "nota": 5,
+        "ranking": 70,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Dario",
+        "nota": 5,
+        "ranking": 114,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Humberto",
+        "nota": 6,
+        "ranking": 84,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Javier",
+        "nota": 5,
+        "ranking": 48,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Joaquin",
+        "nota": 2,
+        "ranking": 104,
+        "curso": "10a"
+    },
+    {
+        "alumno": "John",
+        "nota": 7,
+        "ranking": 39,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Ovidio",
+        "nota": 4,
+        "ranking": 69,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Rene",
+        "nota": 8,
+        "ranking": 41,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Perla",
+        "nota": 3,
+        "ranking": 79,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Liz",
+        "nota": 5,
+        "ranking": 39,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Marlon",
+        "nota": 4,
+        "ranking": 132,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Diego",
+        "nota": 7,
+        "ranking": 99,
+        "curso": "10a"
+    },
+    {
+        "alumno": "Nico",
+        "nota": 7,
+        "ranking": 34,
+        "curso": "10a"
+    }
+]
